@@ -145,8 +145,8 @@ Thumbs.db
 *~
 
 # Database files (uncomment if you don't want to track database files)
-# *.db
-# *.sqlite
+*.db
+*.sqlite
 
 # Log files
 *.log
